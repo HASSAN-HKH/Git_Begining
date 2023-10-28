@@ -1,4 +1,3 @@
 # Git_Begining
 This is my first begining with git / github
 ## My First Project
-### rgb(255 , 255 , 0) Hello
